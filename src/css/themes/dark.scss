@@ -1,0 +1,17 @@
+.dark-theme {
+  .list-item {
+    .doctor {
+      color: white;
+    }
+    &:nth-of-type(2n) {
+      .doctor {
+        background-color: #363D50;
+      }
+    }
+    &:nth-of-type(2n+1) {
+      .doctor {
+        background-color: #2A303F;
+      }
+    }
+  }
+}

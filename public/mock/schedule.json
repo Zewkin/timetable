@@ -1,0 +1,2852 @@
+{
+  "clinic": {
+    "name": "Test Clinic", 
+    "avatar_uri": ""
+  },
+  "employees": [
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Franjotudjman.jpg", 
+      "name": "Franjo Tuđman", 
+      "title": "1st President of Croatia",
+      "location": "Zagreb",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Izetbegovic.jpg", 
+      "name": "Alija Izetbegović", 
+      "title": "Bosnian Leader",
+      "location": "Sarajevo",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/Milan_Kucan.jpg", 
+      "name": "Milan Kučan", 
+      "title": "1st President of Slovenia",
+      "location": "Ljubljana",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Franjotudjman.jpg", 
+      "name": "Franjo Tuđman", 
+      "title": "1st President of Croatia",
+      "location": "Zagreb",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Izetbegovic.jpg", 
+      "name": "Alija Izetbegović", 
+      "title": "Bosnian Leader",
+      "location": "Sarajevo",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/Milan_Kucan.jpg", 
+      "name": "Milan Kučan", 
+      "title": "1st President of Slovenia",
+      "location": "Ljubljana",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Franjotudjman.jpg", 
+      "name": "Franjo Tuđman", 
+      "title": "1st President of Croatia",
+      "location": "Zagreb",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Izetbegovic.jpg", 
+      "name": "Alija Izetbegović", 
+      "title": "Bosnian Leader",
+      "location": "Sarajevo",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/Milan_Kucan.jpg", 
+      "name": "Milan Kučan", 
+      "title": "1st President of Slovenia",
+      "location": "Ljubljana",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Franjotudjman.jpg", 
+      "name": "Franjo Tuđman", 
+      "title": "1st President of Croatia",
+      "location": "Zagreb",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Izetbegovic.jpg", 
+      "name": "Alija Izetbegović", 
+      "title": "Bosnian Leader",
+      "location": "Sarajevo",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/Milan_Kucan.jpg", 
+      "name": "Milan Kučan", 
+      "title": "1st President of Slovenia",
+      "location": "Ljubljana",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Franjotudjman.jpg", 
+      "name": "Franjo Tuđman", 
+      "title": "1st President of Croatia",
+      "location": "Zagreb",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Izetbegovic.jpg", 
+      "name": "Alija Izetbegović", 
+      "title": "Bosnian Leader",
+      "location": "Sarajevo",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/Milan_Kucan.jpg", 
+      "name": "Milan Kučan", 
+      "title": "1st President of Slovenia",
+      "location": "Ljubljana",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Franjotudjman.jpg", 
+      "name": "Franjo Tuđman", 
+      "title": "1st President of Croatia",
+      "location": "Zagreb",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Izetbegovic.jpg", 
+      "name": "Alija Izetbegović", 
+      "title": "Bosnian Leader",
+      "location": "Sarajevo",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    },
+    {
+      "avatar_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/Milan_Kucan.jpg", 
+      "name": "Milan Kučan", 
+      "title": "1st President of Slovenia",
+      "location": "Ljubljana",
+      "weekly_schedule": {
+        "day_1": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_2": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_3": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_4": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_5": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_6": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        },
+        "day_7": {
+          "start_at": "8:00",
+          "end_at": "16:00"
+        }
+      },
+      "open_slots_for_today": [
+        {
+          "8:00": true
+        },
+        {
+          "8:15": true
+        },
+        {
+          "8:30": true
+        },
+        {
+          "8:45": true
+        },
+        {
+          "9:00": false
+        },
+        {
+          "9:15": true
+        },
+        {
+          "9:30": true
+        },
+        {
+          "9:45": true
+        },
+        {
+          "10:00": true
+        },
+        {
+          "10:15": true
+        },
+        {
+          "10:30": true
+        },
+        {
+          "10:45": false
+        },
+        {
+          "11:00": true
+        },
+        {
+          "11:15": true
+        },
+        {
+          "11:30": true
+        },
+        {
+          "11:45": true
+        },
+        {
+          "12:00": true
+        },
+        {
+          "12:15": true
+        },
+        {
+          "12:30": true
+        },
+        {
+          "12:45": true
+        },
+        {
+          "13:00": true
+        },
+        {
+          "13:15": true
+        },
+        {
+          "13:30": true
+        },
+        {
+          "13:45": true
+        },
+        {
+          "14:00": false
+        },
+        {
+          "14:15": true
+        },
+        {
+          "14:30": true
+        },
+        {
+          "14:45": true
+        },
+        {
+          "15:00": true
+        },
+        {
+          "15:15": true
+        },
+        {
+          "15:30": true
+        },
+        {
+          "15:45": false
+        },
+        {
+          "16:00": true
+        },
+        {
+          "16:15": true
+        },
+        {
+          "16:30": true
+        },
+        {
+          "16:45": true
+        },
+        {
+          "17:00": true
+        },
+        {
+          "17:15": true
+        },
+        {
+          "17:30": true
+        },
+        {
+          "17:45": true
+        }
+      ]
+    }
+  ]
+}
