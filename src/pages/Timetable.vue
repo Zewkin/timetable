@@ -26,7 +26,6 @@
           style="height: calc(100vh - 50px); overflow-y: auto;"
           item-class="list-item"
           :keeps="5"
-          :estimate-size="200"
           :data-key="'name'"
           :data-sources="mock.employees"
           :data-component="DoctorSchedule"
