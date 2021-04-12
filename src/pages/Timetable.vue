@@ -82,6 +82,7 @@ export default {
           resp.data.employees[i].id = i;
         }
         this.mock = resp.data
+        this.currentItem = 0
       })
     }
   }
